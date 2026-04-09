@@ -1,4 +1,14 @@
 # Uji-Coba-Sensor-DHT11-IoT-B083
+
+## UPN Veteran Jawa Timur
+**Mata Kuliah:** Internet of Things B083
+
+## Disusun oleh Kelompok 2
+1. Tiara Valentina — 23083010091  
+2. Pinka Nurdiana — 23083010057  
+3. Risbuwono Heru Cokro — 23083010104  
+4. I Nyoman Kresna Wira Yudha — 23083010017
+
 Proyek ini merupakan hasil praktikum pembacaan sensor DHT11 menggunakan board ESP8266. Data suhu dan kelembapan ditampilkan pada OLED serta dapat diakses melalui web server.
 
 ## Fitur
