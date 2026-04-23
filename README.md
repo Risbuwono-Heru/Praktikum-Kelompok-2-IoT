@@ -19,7 +19,7 @@ Folder ini berisi project demonstrasi penggunaan display OLED SSD1306 pada mikro
 ### 2. `02-Bacaan-Sensor-DHT-Melalui-WiFi`
 Folder ini berisi project pembacaan sensor DHT11 menggunakan board ESP8266. Data suhu dan kelembapan ditampilkan pada OLED serta dapat diakses melalui web server. Folder ini memuat source code, dokumentasi hasil tampilan web, dan rangkaian hardware.
 
-### 3. `03-Desain-Sistem-Sensor`
+### 3. `03-Desain-Sistem-Sensor (ETS)`
 Folder ini berisi dokumen desain sistem sensor yang disusun sebagai pengganti ETS. Isi folder mencakup file PDF utama beserta diagram atau file pendukung lain yang menjelaskan rancangan sistem, alur kerja, dan komponen yang digunakan.
 
 ## Isi Repository
