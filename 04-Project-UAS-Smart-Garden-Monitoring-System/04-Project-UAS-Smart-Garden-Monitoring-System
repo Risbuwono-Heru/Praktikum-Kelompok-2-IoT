@@ -1,1 +1,3 @@
 
+### 4. `04-Project-UAS-Smart-Garden-Monitoring-System`
+Folder ini berisi project UAS Smart Garden Monitoring System yang menggunakan ESP8266 dengan tiga jenis sensor: sensor suhu dan kelembapan (DHT11), sensor cahaya (BH1750), dan sensor kelembaban tanah (Soil Moisture Sensor v2.0). Sistem ini juga dilengkapi dengan relay untuk mengendalikan sistem penyiraman otomatis. Data yang dikumpulkan oleh sensor akan ditampilkan pada aplikasi Blynk dan dapat dipantau secara real-time melalui web server.
