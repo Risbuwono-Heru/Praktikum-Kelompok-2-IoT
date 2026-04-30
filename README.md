@@ -22,10 +22,20 @@ Folder ini berisi project pembacaan sensor DHT11 menggunakan board ESP8266. Data
 ### 3. `03-Desain-Sistem-Sensor (ETS)`
 Folder ini berisi dokumen desain sistem sensor yang disusun sebagai pengganti ETS. Isi folder mencakup file PDF utama beserta diagram atau file pendukung lain yang menjelaskan rancangan sistem, alur kerja, dan komponen yang digunakan.
 
+### 4. `04-Project-UAS-Smart-Garden-Monitoring-System`
+Folder ini berisi project UAS Smart Garden Monitoring System yang menggunakan ESP8266 dengan tiga jenis sensor: sensor suhu dan kelembapan (DHT11), sensor cahaya (BH1750), dan sensor kelembaban tanah (Soil Moisture Sensor v2.0). Sistem ini juga dilengkapi dengan relay untuk mengendalikan sistem penyiraman otomatis. Data yang dikumpulkan oleh sensor akan ditampilkan pada aplikasi Blynk dan dapat dipantau secara real-time melalui web server.
+
+**Isi Folder:**
+- **Source Code**: Kode program untuk menghubungkan ESP8266 dengan sensor dan aplikasi Blynk.
+- **Dokumentasi Pengujian**: Laporan pengujian sistem monitoring taman pintar, termasuk data yang dikumpulkan.
+- **Rangkaian Hardware**: Diagram dan penjelasan sambungan rangkaian elektronik.
+- **Desain Sistem**: Penjelasan alur kerja sistem monitoring dan pengendalian penyiraman otomatis.
+
 ## Isi Repository
 - Demo display OLED SSD1306
 - Bacaan sensor DHT11 melalui WiFi
 - Desain sistem sensor sebagai pengganti ETS
+- Project UAS Smart Garden Monitoring System
 
 ## Tujuan
 - Mendokumentasikan hasil tugas dan praktikum kelompok
